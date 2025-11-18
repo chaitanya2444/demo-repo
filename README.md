@@ -1,4 +1,4 @@
 # demo-repo
-demo respositry 
+demo respositry (akash)
 <BR>
 Author-chaitu.
